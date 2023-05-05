@@ -24,7 +24,7 @@ django-taggit==3.1.0
 Faker==18.4.0
 filelock==3.9.0
 Flask==2.2.3
-fonttools==4.39.3
+fonttools==4.38.0
 haystack==0.42
 idna==3.4
 itsdangerous==2.1.2
