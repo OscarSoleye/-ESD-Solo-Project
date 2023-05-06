@@ -26,7 +26,7 @@ SECRET_KEY = os.getenv("DjANGO_SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['waleshop.onrender.com','spiderlocal-relaxvideo-8000.codio-box.uk']
+ALLOWED_HOSTS = ['waleshop.onrender.com', 'spiderlocal-relaxvideo-8000.codio-box.uk', '127.0.0.1', 'localhost']
 
 
 # Application definition
